@@ -3,9 +3,8 @@
 use js + bitstamp public api to display current bitcoin price
 
 
+overall nice idea, I think nobody did this atm, will look forward to implement it soon 
 
 ### donate:
-
-btc: 1Ffgm5hnVCvSbXHHjaGctwBbDxPmWHffRt
 
 contact me to get displayed in the list of donors
